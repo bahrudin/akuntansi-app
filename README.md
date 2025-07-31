@@ -49,7 +49,7 @@ node ace serve --watch
 ```
 ### 5. Buka Browser
 ```bash
-Jalankan
+http://localhost:3333/
 ```
 
 
